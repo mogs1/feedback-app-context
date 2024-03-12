@@ -2,17 +2,17 @@ const Data = [
     {
       id: 1,
       rating: 10,
-      text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. consequuntur vel vitae commodi alias voluptatem est voluptatum ipsa quae.',
+      text: 'this is the first feedback for this app.',
     },
     {
       id: 2,
       rating: 9,
-      text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. consequuntur vel vitae commodi alias voluptatem est voluptatum ipsa quae.',
+      text: 'This is the second feedback for this app.',
     },
     {
       id: 3,
       rating: 8,
-      text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. consequuntur vel vitae commodi alias voluptatem est voluptatum ipsa quae.',
+      text: 'This is a good app if you like it, pls share.',
     },
   ]
   

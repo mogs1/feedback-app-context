@@ -1,8 +1,6 @@
 import { useContext } from 'react'
 import { FeedbackContext } from '../contexts/feedbackContext'
 
-
-
 function FeedbackStata() {
   const {feedback} = useContext(FeedbackContext)
   

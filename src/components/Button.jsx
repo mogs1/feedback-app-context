@@ -1,4 +1,3 @@
-import { version } from "react"
 import propTypes from 'prop-types'
 
 function Button({children, version, type, isDisabled}) {
